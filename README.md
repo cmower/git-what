@@ -26,10 +26,10 @@ sudo make uninstall
 
 ## Usage
 
-To see what is happening on your many branches, type `git what`, or just `what`:
+To see what is happening on your many branches, type `git what`
 
 ```
-$ what
+$ git what
 -- Branches --
 * main
 
