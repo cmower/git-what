@@ -2,7 +2,7 @@
 
 Print a summary of your git branches.
 
-![screenshot](https://raw.githubusercontent.com/andybalaam/git-what/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/cmower/git-what/master/screenshot.png)
 
 Think of it as a combination of `git branch`, `git status` and `git log`
 intended to answer the common question "what was I doing?" when you are
@@ -13,7 +13,7 @@ working on several branches simultaneously.
 To install:
 
 ```bash
-git clone https://github.com/andybalaam/git-what.git
+git clone https://github.com/cmower/git-what.git
 cd git-what
 sudo make install
 ```
